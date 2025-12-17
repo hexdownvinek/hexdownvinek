@@ -19,7 +19,7 @@ I move in the spaces where code and chaos collide.<br>
 I leak what should remain hidden and patch what the world ignores.</p>
 
 <ul>
-    <li><strong>Origin:</strong> Vladivostok, Russia (UTC+10 – far from prying eyes)</li>
+    <li><strong>Origin:</strong> Sakhalin, Russia (UTC+12 – far from prying eyes and FBI)</li>
     <li><strong>Alias:</strong> Hex, Vine, The Shadow of Hex</li>
     <li><strong>Skills:</strong> Reverse engineering, cryptography, secure exfiltration, dark-web architecture</li>
     <li><strong>Languages:</strong> Python, Rust, C++, JavaScript</li>
