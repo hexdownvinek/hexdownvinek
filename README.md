@@ -22,7 +22,7 @@ I leak what should remain hidden and patch what the world ignores.</p>
     <li><strong>Origin:</strong> Sakhalin, Russia (UTC+11 – far from prying eyes and FBI)</li>
     <li><strong>Alias:</strong> Hex, Vine, The Shadow of Hex</li>
     <li><strong>Skills:</strong> Reverse engineering, cryptography, secure exfiltration, dark-web architecture</li>
-    <li><strong>Languages:</strong> Python, Rust, C++, JavaScript</li>
+    <li><strong>Languages:</strong> Python, Rust, C++, JavaScript and Java</li>
     <li><strong>Signature:</strong> Leaves a subtle ASCII vine in my leaks. 🍃</li>
 </ul>
 
@@ -30,9 +30,9 @@ I leak what should remain hidden and patch what the world ignores.</p>
 
 <h2>💻 Current Operations</h2>
 <ul>
-    <li>Projects that vanish faster than your logs: <code>hex-vine</code>, <code>ghost-patch</code>, <code>leaklab</code></li>
+    <li>Projects that vanish faster than your logs: <code>hex-vine</code></li>
     <li>Experiments in hex code manipulation and AI-assisted infiltration</li>
-    <li>Occasionally… things the world wasn’t meant to see</li>
+    <li>Occasionally… things the world wasn’t READY to see</li>
 </ul>
 
 </body>
