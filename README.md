@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🌿 HexDownVinek 🌿  
+*Ghost coder | Data whisperer | Hex manipulator*  
 
-<!--
-**hexdownvinek/hexdownvinek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+░█▀▀█ ░█▀▀▀█ ░█▀▀█ ░█▀▀▀█ ░█▀▄▀█ ▀▀█▀▀ ░█▀▀█
+░█─── ░█──░█ ░█─▄▄ ░█──░█ ░█░█░█ ─░█── ░█▄▄▀
+░█▄▄█ ░█▄▄▄█ ░█▄▄█ ░█▄▄▄█ ░█──░█ ─░█── ░█─░█
 
-Here are some ideas to get you started:
+yaml
+Copy code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “Truth in code, hidden in plain sight.”  
+
+---
+
+## 🕵️ About Me
+I am HexDownVinek.  
+I move in the spaces where code and chaos collide.  
+I leak what should remain hidden and patch what the world ignores.  
+
+- **Origin:** Vladivostok, Russia (UTC+10 – far from prying eyes)  
+- **Alias:** Hex, Vine, The Shadow of Hex  
+- **Skills:** Reverse engineering, cryptography, secure exfiltration, dark-web architecture  
+- **Languages:** Python, Rust, C++, JavaScript  
+- **Signature:** Leaves a subtle ASCII vine in my leaks. 🍃  
+
+---
+
+## 💻 Current Operations
+- Projects that vanish faster than your logs: `hex-vine`, `ghost-patch`, `leaklab`  
+- Experiments in hex code manipulation and AI-assisted infiltration  
+- Occasionally… things the world wasn’t meant to see  
+
+---
